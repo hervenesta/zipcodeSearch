@@ -1,34 +1,5 @@
  import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import { throwStatement } from '@babel/types';
-
-
-/*function City(props) {
-  return (<div></div>);
-
-          <div>
-          <City />
-          <City />
-        </div>
-}
-
-function ZipSearchField(props) {
-  return (
-    <div>
-      <center><h1>ZipCode</h1> </center>
-      {zipCodeUrl.map((zipcode) => (
-        <div> 
-          <div> 
-            <h5>{zipcode.State} </h5>
-            <h6>{zipcode.LocationText} </h6>
-            <p>{zipcode.Location} </p>
-          </div>
-        </div>
-      ))}
-    </div>
-  )
-}*/
 
 const ZipSearchField = ({zipCodeUrl}) => {
   return (
