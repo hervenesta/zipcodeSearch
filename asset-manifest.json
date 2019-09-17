@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/zipcodeSearch/static/css/main.11940795.chunk.css",
-    "main.js": "/zipcodeSearch/static/js/main.dfaff095.chunk.js",
-    "main.js.map": "/zipcodeSearch/static/js/main.dfaff095.chunk.js.map",
+    "main.js": "/zipcodeSearch/static/js/main.b2693227.chunk.js",
+    "main.js.map": "/zipcodeSearch/static/js/main.b2693227.chunk.js.map",
     "runtime~main.js": "/zipcodeSearch/static/js/runtime~main.f7328104.js",
     "runtime~main.js.map": "/zipcodeSearch/static/js/runtime~main.f7328104.js.map",
-    "static/js/2.5ba42541.chunk.js": "/zipcodeSearch/static/js/2.5ba42541.chunk.js",
-    "static/js/2.5ba42541.chunk.js.map": "/zipcodeSearch/static/js/2.5ba42541.chunk.js.map",
+    "static/js/2.296480c2.chunk.js": "/zipcodeSearch/static/js/2.296480c2.chunk.js",
+    "static/js/2.296480c2.chunk.js.map": "/zipcodeSearch/static/js/2.296480c2.chunk.js.map",
     "index.html": "/zipcodeSearch/index.html",
-    "precache-manifest.98ba3fc4d477e1eab8f3b188b89c99e8.js": "/zipcodeSearch/precache-manifest.98ba3fc4d477e1eab8f3b188b89c99e8.js",
+    "precache-manifest.4d46573b512f21c9755662e2502e3d11.js": "/zipcodeSearch/precache-manifest.4d46573b512f21c9755662e2502e3d11.js",
     "service-worker.js": "/zipcodeSearch/service-worker.js",
-    "static/css/main.11940795.chunk.css.map": "/zipcodeSearch/static/css/main.11940795.chunk.css.map",
-    "static/media/logo.svg": "/zipcodeSearch/static/media/logo.5d5d9eef.svg"
+    "static/css/main.11940795.chunk.css.map": "/zipcodeSearch/static/css/main.11940795.chunk.css.map"
   }
 }
